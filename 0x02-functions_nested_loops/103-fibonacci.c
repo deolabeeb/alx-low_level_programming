@@ -11,7 +11,7 @@ int main(void)
 {
 	long int a, x = 1, y = 2, sum = 0, tSum = 0;
 
-	for (a = 0; i < 49; a++)
+	for (a = 0; a < 49; a++)
 
 	{
 		if ((y % 2 == 0) && (y <= 4000000))
