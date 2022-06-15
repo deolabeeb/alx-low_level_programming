@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * _puts - function that puts
- * @str: a paameter in _puts function
+ * _puts -> This is a function that puts
+ * @str: a parameter to _puts function
  */
 void _puts(char *str)
 {
-	for (; *str != '\0' str++)
+	for (; *str != '\0'; str++)
 	{
 		_putchar(*str);
 	}
