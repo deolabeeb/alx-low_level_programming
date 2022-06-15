@@ -2,7 +2,6 @@
 
 /**
  * _puts - function that puts
- *
  * @str: a paameter in _puts function
  */
 void _puts(char *str)
