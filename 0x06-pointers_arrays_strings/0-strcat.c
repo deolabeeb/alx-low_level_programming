@@ -2,7 +2,6 @@
 
 /**
  * _strcat -> this is a function
- * 
  * @dest: first parameter
  * @src: second parameter
  * Return: a string
@@ -26,7 +25,6 @@ char *_strcat(char *dest, char *src)
 		y++;
 		x++;
 	}
-
 	dest[x] = '\0';
 	return (dest);
 }
